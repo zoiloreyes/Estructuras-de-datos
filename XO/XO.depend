@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494966292 source:c:\users\zoilo reyes\documents\itla\estructura de datos\pruebas\xo\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

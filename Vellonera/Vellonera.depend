@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1497901923 source:c:\users\zoilo reyes\documents\itla\estructura de datos\pruebas\vellonera\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+

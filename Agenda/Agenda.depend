@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496968131 source:c:\users\zoilo reyes\documents\itla\estructura de datos\pruebas\agenda\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+
